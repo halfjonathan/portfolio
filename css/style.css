@@ -43,15 +43,24 @@ a:focus {
 strong {
     font-weight: 700;
 }
-dl{
+
+dl {
     color: #8d8d8d;
     width: 70%
 }
-dt{
-    
+
+dt {
     font-size: 18px;
-    margin:50px 0 20px 0;
+    margin: 50px 0 20px 0;
 }
+
+
+/*
+**************************
+icons
+**************************
+*/
+
 /*
 **************************
 PRELOADER
@@ -229,7 +238,7 @@ ul.social-icon a:hover {
 
 .menu-index i {
     float: right;
-    font-size: 18px;
+    
     color: white;
     padding-right: 0px !important;
 }
